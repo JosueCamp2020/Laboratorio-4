@@ -100,5 +100,8 @@ PREGUNTAS:
 
 * La resistencia cuyo valor arrojo la Maxima Tranferencia de Potencia fue la de 1000 Ohmios
 
-
 8. BIBLIOGRAFIA
+
+*
+*
+
