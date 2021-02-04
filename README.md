@@ -10,6 +10,7 @@
 
 * Analizar los valores que arroja la simulacion tanto para la corriente como voltaje para posteriormente analizar la MTP.
 * Demostrar y Evaluar como actua la MTP en un ejercicio con 1 voltaje y dos resistencias en serie.
+* Determinar de la resistencia de carga que permite transferir la potencia máxima
 
 2. MARCO TEORICO
 
@@ -79,11 +80,9 @@ El error porcentual de cada una de las resistencias nos arrojo que NO existe un 
 
 7. CONCLUSIONES
 
-*
-*
-*
-*
-*
+* Cuando es importante obtener la máxima transferencia de potencia,la resistencia de carga debe adaptarse a la resistencia internaen las fuentes de voltaje.
+* La potencia máxima será desarrollada en la carga cuando la resistencia descarga RL sea igual a la resistencia interna de la fuente de voltaje.
+* Se puedo evidenciar al momento de calcular el error que no hubo variacion en los calculado con lo experimentado y eso ayuda en saber que la si,ulacion nos da un valor real y no un valor con errores.
 
 --------------------------------------------------------------------------
 
