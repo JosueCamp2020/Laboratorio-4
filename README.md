@@ -102,6 +102,5 @@ PREGUNTAS:
 
 8. BIBLIOGRAFIA
 
-*
-*
-
+* DesignSoft, Inc. . (2020). tina.com. Obtenido de 2020 DesignSoft: https://www.tina.com/es/maximum-power-transfer-theorem/
+* Universidad Miguel Hernadez. (25 de 03 de 2017). innovacionumh.es. Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.html
