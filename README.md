@@ -1,5 +1,5 @@
 # Laboratorio 4
-# Maxima Tranferencia de Potencia
+# Máxima Tranferencia de Potencia
 1. OBJETIVOS
 
 1.1 OBJETIVOS GENERALES
@@ -21,7 +21,7 @@ Diagrama de circuito a elaborar:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-4/blob/main/Imagenes/Diagrama.png)
 
-Diagrama de Circuitos con todas las resistencias pedidas:
+Diagrama de Circuitos con los valores de Corriente y Voltaje:
 
 ![](https://github.com/JosueCamp2020/Laboratorio-4/blob/main/Imagenes/DiagramasCircuitos1.png)
 ![](https://github.com/JosueCamp2020/Laboratorio-4/blob/main/Imagenes/DiagramasCircuitos2.png)
@@ -46,6 +46,21 @@ Diagrama de Circuitos con todas las resistencias pedidas:
 
 5. EXPLICACIÓN
 
+Procedemos a realizar los calculos mediante la simulacion en la plataforma de Tinkercad el cual nos pide que realizemos con diferentes valores de resistencias para comprobar si existe una maxima tranferencia de potencia (MTP), los valores arrojados por el simulador se encuentran en la columna de corrientes y voltajes medidos con sus respectivas unidades de medida.
+Para realizar los calculos de la potencia se utilizo la formulas que se ven reflejadas en las siguientes imagenes:
+
+![](https://github.com/JosueCamp2020/Laboratorio-4/blob/main/Imagenes/Calculos.png)
+
+* Las formulas utilizadas para los calculos de la potencia fueron la de Ley de Ohm (I=V/R) y para la potencia se utilizo la siguiente formula: (P=V*I).
+
+Los datos obtenidos en los calculos anteriores se ven reflejados en la columna de Potencia Claculada Teoricamente [W]:
+
+![](https://github.com/JosueCamp2020/Laboratorio-4/blob/main/Imagenes/Tabla.png)
+
+El error porcentual de cada una de las resistencias nos arrojo que NO existe un error en los calculos medidos teoricamente con los calculos experimentales, los valores de los errores fueron los siguientes:
+
+![](https://github.com/JosueCamp2020/Laboratorio-4/blob/main/Imagenes/Error.png)
+
 6. MANUAL DE USUARIO
 
 ![](https://github.com/JosueCamp2020/Laboratorio-3/blob/main/Imagenes/Manual.jpg)
@@ -64,15 +79,27 @@ Diagrama de Circuitos con todas las resistencias pedidas:
 
 7. CONCLUSIONES
 
+*
+*
+*
+*
+*
+
 --------------------------------------------------------------------------
 
 PREGUNTAS:
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts
+* Si se cumple la Maxima Tranferencia de Potencia ya que existen valores de resistencias por ejemplo la de 220 ohmios arrojo un valor cercano a 0.2453 Ohmios y en medida de que hiba aumentando el valor de la resistencia se evidencia que al llegar a los 10000 Ohmios llega al tope de la Maxima Tranferencia de Potencia, en medida que hiba aumentando mas de 1000 Ohmios el valor de la resistencia se evidencia una caida en la potencia por lo cual se comprueba y afirma que cumple con el teorema de MTP.
 
-6.5.6. ¿Para qué valor de RL se obtiene la MTP? _______________Ohmios
+6.5.5. ¿Cuál fue la potencia máxima en RL? 
+
+* La maxima pontencia alcanzada en un RL fue de 0.04648 Whatts
+
+6.5.6. ¿Para qué valor de RL se obtiene la MTP? 
+
+* La resistencia cuyo valor arrojo la Maxima Tranferencia de Potencia fue la de 1000 Ohmios
 
 
 8. BIBLIOGRAFIA
